@@ -550,6 +550,471 @@ You'll feel a difference in 2-3 weeks. Visible changes come at 6-8 weeks of cons
 The neck is small but it changes everything.
     `,
   },
+  {
+    slug: "take-diet-breaks-to-lose-fat-faster",
+    title: "If You Want to Lose Fat Fast, Take Breaks",
+    excerpt:
+      "Sounds counterintuitive, but research shows that taking planned diet breaks actually accelerates fat loss. Here's why and how to do it.",
+    category: "Fat Loss",
+    date: "2026-06-28",
+    readTime: "7 min read",
+    videoId: "uitpTGipjI0",
+    content: `
+## The Case for Not Dieting All the Time
+
+Every guy who's tried to get lean has done the same thing: slash calories, go hard for 3-4 weeks, hit a wall, feel terrible, and either quit or push through on willpower alone. There's a better way.
+
+### What Research Actually Shows
+
+The MATADOR study (Minimising Adaptive Thermogenesis And Deactivating Obesity Rebound) compared two groups over 30 weeks. One group dieted continuously. The other alternated 2 weeks of dieting with 2 weeks at maintenance.
+
+The result? The intermittent group lost significantly more fat — and kept more of it off. They also experienced less metabolic adaptation, meaning their metabolism didn't slow down as much.
+
+### Why Continuous Dieting Backfires
+
+When you stay in a caloric deficit for too long, your body fights back. Leptin drops (the hormone that signals fullness), ghrelin rises (the hunger hormone), and your metabolic rate decreases. You burn fewer calories doing the same activities.
+
+This is why weeks 4-8 of a diet feel so much harder than weeks 1-2. Your body is adapting to the lower intake and trying to preserve energy.
+
+### How to Structure Diet Breaks
+
+**Every 6-8 weeks of dieting, take 1-2 weeks at maintenance calories.** Not a free-for-all. Not a binge week. Just eat at the calories your body needs to maintain its current weight.
+
+During the break: keep protein high (1.8-2.2g/kg), keep training the same, add back calories through carbs and fats. You might see a slight scale increase from water and glycogen — this is normal and temporary.
+
+### The Mental Reset Matters Too
+
+Diet breaks aren't just physiological — they're psychological. Knowing you have a planned break coming makes the deficit weeks more sustainable. You're not white-knuckling it forever.
+
+Most guys who fail at getting lean don't fail because of a lack of knowledge. They fail because of diet fatigue. Planned breaks solve that.
+
+### The Protocol
+
+- Diet for 6-8 weeks at a 300-400 calorie deficit
+- Take 1-2 weeks at maintenance
+- Resume the deficit
+- Repeat until you reach your goal
+
+It takes slightly longer on paper. But in practice, you'll get leaner because you'll actually stick with it. The fastest diet is the one you don't quit.
+    `,
+  },
+  {
+    slug: "chubby-cheeks-to-sharp-jawline",
+    title: "Chubby Cheeks to Sharp Jawline: The Only Tips You Need",
+    excerpt:
+      "Your face can completely transform as you get lean. Here's the roadmap from round face to defined jawline — no gimmicks required.",
+    category: "Transformation",
+    date: "2026-06-06",
+    readTime: "8 min read",
+    videoId: "v7CQllul7QA",
+    content: `
+## The Jawline Transformation Roadmap
+
+Your jawline isn't something you either have or don't. For most men, it's hiding under a layer of body fat and water retention. Here's how to reveal it.
+
+### Step 1: Get Lean (This Is 80% of It)
+
+There is no shortcut around this. Face fat is body fat. To reveal your jawline, you need to reduce your overall body fat percentage. For most men, the jawline really starts to pop around 12-15% body fat.
+
+Use a moderate caloric deficit (200-400 calories below maintenance), prioritise protein, and lift weights. The leaner you get, the more defined your face becomes.
+
+### Step 2: Build Your Neck and Traps
+
+A thicker neck frames your jaw and creates contrast that makes your jawline appear sharper — even at the same body fat percentage. This is the most underrated tip.
+
+Train neck curls, neck extensions, and heavy shrugs 2-3 times per week. Within 8-12 weeks, you'll notice a significant difference in how your face looks.
+
+### Step 3: Manage Water Retention
+
+Facial bloating makes even lean guys look puffy. The biggest culprits:
+
+**Sodium fluctuations.** High sodium meals cause temporary water retention. The fix isn't avoiding salt — it's keeping intake consistent so your body doesn't overreact.
+
+**Alcohol.** Causes dehydration followed by rebound water retention. Puffy face the morning after is classic.
+
+**Poor sleep.** Under 7 hours consistently causes cortisol elevation, which promotes facial puffiness and water retention.
+
+**Dehydration.** Counterintuitively, not drinking enough water causes your body to hold onto more. Aim for 2-3 litres daily.
+
+### Step 4: Fix Your Posture
+
+Forward head posture pushes your jaw back and creates the appearance of a weaker jawline. Standing tall with your head stacked over your shoulders naturally brings your jaw forward and creates better definition.
+
+### What About Mewing?
+
+Proper tongue posture (tongue flat against the roof of your mouth) can support good oral posture over time, but it's not going to reshape your face if you're at 25% body fat. Get lean first. Then optimise.
+
+### The Timeline
+
+- **Month 1-2:** You'll start noticing subtle changes in lighting
+- **Month 3-4:** Other people start to notice
+- **Month 6+:** Full transformation if you started above 20% body fat
+
+The transformation is gradual, then sudden. Trust the process.
+    `,
+  },
+  {
+    slug: "how-to-stay-fit-working-9-to-5",
+    title: "How to Stay Fit Working a 9-5 (6 Best Tips)",
+    excerpt:
+      "Long hours, desk-bound, drained after work. Here's how to build a great physique without quitting your job.",
+    category: "Training",
+    date: "2026-05-21",
+    readTime: "8 min read",
+    videoId: "3n1AgYhRBhw",
+    content: `
+## You Don't Need to Quit Your Job to Get Lean
+
+The number one excuse I hear: "I don't have time." I get it. I spent years in finance in London working long hours. But I still built my physique — and so can you. Here are the 6 tips that actually work.
+
+### 1. Train Before Work (Or at Lunch)
+
+Waiting until after work is a trap. You're tired, you're hungry, and there's always a reason to skip. Move your training to the morning or lunch hour and it becomes non-negotiable.
+
+45-60 minutes, 3 times per week. That's 2.7 hours. Less than 2% of your waking week.
+
+### 2. Meal Prep on Sunday
+
+You don't need to prep every meal. Just prep your protein sources and have quick options ready. Cook a batch of chicken, rice, and vegetables. Takes 90 minutes and covers your weekday lunches.
+
+The goal isn't perfection — it's removing the decision fatigue that leads to a Deliveroo order at 2pm.
+
+### 3. Walk 10,000 Steps
+
+Non-exercise activity (NEAT) is responsible for a huge portion of your daily calorie burn. Walk to work, take calls standing, use the stairs. It adds up without feeling like exercise.
+
+10,000 steps burns roughly 300-500 extra calories per day depending on your weight.
+
+### 4. Stop Drinking Your Calories
+
+That morning latte is 200 calories. The after-work pint is 250. The weekend cocktails are 500+. Liquid calories don't fill you up but they add up fast.
+
+Switch to black coffee, water, and zero-calorie drinks during the week. Save the social drinking for weekends if you want, but be aware of the cost.
+
+### 5. Protect Your Sleep Schedule
+
+This is the one most professionals get wrong. Late nights scrolling, early alarms, caffeine to compensate. It's a cycle that kills your results.
+
+Sleep 7-8 hours. Set a phone curfew at 10pm. Keep your room cold and dark. Sleep is when your body recovers, builds muscle, and regulates the hormones that control hunger and fat storage.
+
+### 6. Get Accountability
+
+The guys who transform while working demanding jobs almost always have accountability — a coach, a training partner, or a check-in system. When nobody notices if you skip, you'll skip.
+
+This is the piece most guys are missing. It's not about motivation. It's about having someone who won't let you go quiet.
+
+### The Bottom Line
+
+You have the same 24 hours as everyone else. The difference is how you use 3 of them each week. Three sessions, meal prep, and a good sleep schedule. That's the formula.
+    `,
+  },
+  {
+    slug: "3-day-workout-beats-6-day-split",
+    title: "This 3-Day Workout Builds More Muscle Than 6-Day Splits",
+    excerpt:
+      "Training 6 days a week isn't better — it's just more. Here's the 3-day full-body program that delivers better results for busy men.",
+    category: "Training",
+    date: "2026-05-09",
+    readTime: "9 min read",
+    videoId: "O39VZusah3k",
+    content: `
+## More Isn't Better — Better Is Better
+
+The fitness industry convinced everyone that you need to train 6 days a week to build a great physique. It's not true. Research consistently shows that training frequency of 2-3x per muscle group per week is optimal for hypertrophy — and a 3-day full-body program hits this perfectly.
+
+### Why Full-Body Beats Bro Splits
+
+A traditional bro split (chest Monday, back Tuesday, etc.) hits each muscle once per week. A full-body program hits every muscle 3 times per week. More frequent stimulation = more muscle protein synthesis = more growth.
+
+A meta-analysis by Schoenfeld et al. found that training a muscle 2+ times per week produced significantly greater hypertrophy than once per week, even when total volume was matched.
+
+### The Program
+
+**Day 1 (Monday)**
+- Barbell Squat: 3x6-8
+- Bench Press: 3x6-8
+- Barbell Row: 3x8-10
+- Lateral Raises: 3x12-15
+- Face Pulls: 3x15-20
+
+**Day 2 (Wednesday)**
+- Romanian Deadlift: 3x8-10
+- Overhead Press: 3x6-8
+- Pull-Ups: 3x6-10
+- Incline Dumbbell Press: 3x10-12
+- Hammer Curls: 2x10-12
+
+**Day 3 (Friday)**
+- Leg Press: 3x10-12
+- Dumbbell Bench Press: 3x8-10
+- Cable Row: 3x10-12
+- Dips: 3x8-12
+- Tricep Pushdowns: 2x12-15
+
+### The Rules
+
+**1. Progressive overload is everything.** Add weight or reps every session. If you did 60kg bench for 3x6 last week, aim for 3x7 or 62.5kg this week. Track every session.
+
+**2. Each session is 45-60 minutes.** Get in, train hard, get out. No scrolling between sets.
+
+**3. Rest 2-3 minutes between compound lifts.** You need full recovery to perform. Rest 60-90 seconds on isolation work.
+
+**4. Recovery is part of the program.** Sleep 7-8 hours. Eat enough protein. Take rest days seriously.
+
+### Why This Works for Busy Men
+
+3 sessions per week. 3 hours total. You hit every muscle 2-3 times. You have 4 full rest days. You can train Monday/Wednesday/Friday and have your weekends completely free.
+
+This is the program I've run with over 100 clients. It works for the guy working 50-hour weeks who can't afford to live in the gym. And the results speak for themselves.
+
+### Stop Doing More
+
+The best program is the one you'll actually follow — consistently, for months. A 6-day program you quit after 3 weeks loses to a 3-day program you run for a year. Every single time.
+    `,
+  },
+  {
+    slug: "fix-skinny-fat-fast",
+    title: "If I Wanted to Fix Skinny Fat FAST, This Is What I'd Do",
+    excerpt:
+      "Slim in a shirt, soft underneath. Here's the exact step-by-step protocol I'd follow to fix the skinny-fat physique as fast as possible.",
+    category: "Transformation",
+    date: "2026-04-24",
+    readTime: "9 min read",
+    videoId: "vxcajWtOues",
+    content: `
+## The Skinny-Fat Fix (Step by Step)
+
+If I woke up tomorrow with a skinny-fat physique and wanted to fix it as quickly as possible, here's exactly what I'd do. No fluff, no overthinking. Just the protocol.
+
+### Step 1: Body Recomposition (Not Bulk, Not Cut)
+
+Skinny-fat guys don't need to bulk (you'll get fatter) or cut (you'll get skinnier). You need body recomposition — losing fat and building muscle simultaneously.
+
+This is possible when you're relatively new to serious training, which most skinny-fat guys are. Your body can use stored fat for energy while building new muscle tissue.
+
+### Step 2: Set Your Calories
+
+Eat at maintenance or a very slight deficit (100-200 calories below). Find your maintenance by multiplying your bodyweight in kg by 28-32 (lower if sedentary, higher if active).
+
+Don't go aggressive. A big deficit will tank your energy and prevent muscle growth. The whole point is to fuel the recomp.
+
+### Step 3: Protein at 2g Per Kg of Bodyweight
+
+This is the most important number. If you weigh 75kg, that's 150g of protein daily. Every single day. No exceptions.
+
+Spread it across 3-4 meals. Each meal should have 30-40g. Chicken, fish, eggs, Greek yoghurt, whey protein — whatever you prefer.
+
+### Step 4: Compound Lifts, 3-4x Per Week
+
+Your training should revolve around the big movements: squats, deadlifts, bench press, rows, overhead press, and pull-ups. These recruit the most muscle mass and drive the most growth.
+
+Train for 45-60 minutes. Focus on getting stronger over time. If you're not adding weight or reps each week, you're not progressing.
+
+### Step 5: Progressive Overload (Track Everything)
+
+Buy a notebook or use an app. Write down every exercise, every set, every rep, every weight. Next session, beat it by at least one rep.
+
+This is the difference between someone who goes to the gym and someone who transforms. You must be systematically getting stronger.
+
+### Step 6: Sleep 7-8 Hours
+
+Sleep is when your body repairs muscle and regulates hormones. One study found that sleeping 5.5 hours instead of 8.5 led to 55% more muscle loss and 60% less fat loss on the same diet.
+
+No amount of training or nutrition can compensate for consistently poor sleep.
+
+### Step 7: Be Patient for 12 Weeks
+
+Here's the hard truth: you won't see dramatic changes in 2 weeks. But at 8 weeks, you'll notice. At 12 weeks, other people will notice. At 6 months, you'll look like a different person.
+
+The skinny-fat fix isn't a sprint. It's a 3-6 month commitment to doing the basics consistently. No magic, no secrets — just the work.
+
+### What Not to Do
+
+- Don't do excessive cardio (it burns muscle along with fat)
+- Don't follow a bodybuilder split (you need frequency, not volume)
+- Don't change programs every 2 weeks (give one program 12 weeks)
+- Don't skip meals (you need the protein to build)
+- Don't compare your week 2 to someone else's year 2
+    `,
+  },
+  {
+    slug: "bulk-vs-cut-skinny-fat-mistake",
+    title: "The Bulk vs Cut Mistake That's Keeping You Skinny Fat",
+    excerpt:
+      "Should you bulk or cut? If you're skinny fat, the answer is probably neither. Here's the decision framework that actually works.",
+    category: "Fat Loss",
+    date: "2026-03-23",
+    readTime: "8 min read",
+    videoId: "KJM0_XWCe30",
+    content: `
+## The Question Every Skinny-Fat Guy Asks
+
+"Should I bulk or cut?" It's the most common question I get. And for skinny-fat guys, the answer most people give — pick one — is actually wrong.
+
+### Why Bulking Makes It Worse
+
+If you're skinny-fat and you bulk, here's what happens: you gain weight. Some muscle, but also more fat. You already had too much fat relative to muscle, and now you've added more. You look softer, your face gets puffier, and your clothes fit worse.
+
+Bulking is for people who are already lean enough that extra calories go primarily to muscle growth. At 18%+ body fat, your body's nutrient partitioning favours fat storage.
+
+### Why Cutting Makes It Worse (Differently)
+
+If you cut, you'll lose weight. But without much muscle underneath, you just end up looking... small. Skinny, not lean. Your clothes hang off you, you look flat, and you still don't have the physique you want.
+
+Cutting is for people who have a solid muscle base and need to reveal it. If the muscle isn't there, there's nothing to reveal.
+
+### The Answer: Body Recomposition
+
+For most skinny-fat men (especially those with less than 2 years of serious training), body recomposition is the answer. Eat at maintenance calories, hit high protein, and train hard with progressive overload.
+
+Your body can simultaneously lose fat and build muscle when:
+- You're relatively untrained (less than 2 years of proper lifting)
+- You have excess body fat to fuel the process
+- Protein intake is high enough (1.8-2.2g per kg)
+- You're training with sufficient intensity
+
+### The Decision Framework
+
+Here's when to do what:
+
+**Above 22% body fat:** Cut first. Get to 15-18% with a moderate deficit, then switch to recomp or lean bulk. The higher your body fat, the worse your nutrient partitioning.
+
+**18-22% body fat:** Recomp. Eat at maintenance, high protein, train hard. This is the sweet spot for simultaneous fat loss and muscle gain.
+
+**Below 15% body fat:** Lean bulk. You're already lean enough that extra calories will primarily support muscle growth. Add 200-300 calories above maintenance.
+
+### How to Know Your Body Fat
+
+You don't need a DEXA scan. Use the mirror and these rough guides:
+- **25%+:** No visible muscle definition, round face, belly over belt
+- **20%:** Some arm definition, face starting to lean out, belly still soft
+- **15%:** Visible arm veins, face defined, abs starting to show in good lighting
+- **12%:** Clear six-pack, jawline sharp, veins in forearms
+- **10%:** Full six-pack, hollow cheeks, veins everywhere
+
+### Stop Asking, Start Doing
+
+The guys who stay skinny-fat are the ones who spend 6 months debating bulk vs cut on Reddit instead of spending 6 months in the gym. Pick the approach that matches your body fat percentage, commit to it for 12 weeks, and adjust from there.
+
+The worst thing you can do is nothing. The second worst thing is switching approaches every 3 weeks.
+    `,
+  },
+  {
+    slug: "psychological-block-keeping-you-skinny-fat",
+    title: "The Psychological Block Keeping You Skinny Fat",
+    excerpt:
+      "You know what to eat. You know how to train. So why are you still stuck? The answer is in your head, not your program.",
+    category: "Mindset",
+    date: "2026-03-27",
+    readTime: "7 min read",
+    videoId: "6Gqt1DD2Q7g",
+    content: `
+## It's Not a Knowledge Problem
+
+You've watched the videos. You've read the articles. You know you need to eat more protein, lift heavy, and sleep 8 hours. So why are you still skinny-fat?
+
+Because getting lean isn't a knowledge problem. It's an identity problem.
+
+### The Self-Sabotage Cycle
+
+Here's what happens: You get motivated. You start a new program. Week 1 is great. Week 2 is good. Week 3, something comes up — a work dinner, a bad day, a weekend away. You miss a session. Then another. Within a month, you're back to where you started.
+
+This isn't a discipline failure. It's your identity pulling you back to baseline. As long as you see yourself as "the guy who's not really in shape," your subconscious will find ways to prove that belief true.
+
+### The Identity Thermostat
+
+Think of it like a thermostat. Your identity is set to a certain temperature — let's say "moderately out of shape but not terrible." Whenever you try to move too far from that set point (by dieting hard or training consistently), your internal thermostat kicks in and pulls you back.
+
+This is why willpower doesn't work long-term. You're fighting your own self-concept.
+
+### How to Shift Your Identity
+
+The shift doesn't happen through a single decision. It happens through repeated small actions that gradually rewrite the story you tell yourself.
+
+**1. Start with the smallest possible action.** Don't commit to training 5 days a week. Commit to showing up at the gym 3 times this week for 30 minutes. Make it impossible to fail.
+
+**2. Focus on the habit, not the result.** "I am someone who trains 3 times a week" is an identity statement. "I want to lose 10kg" is a goal. Identity beats goals every time because it's about WHO you are, not what you want.
+
+**3. Track your wins.** Every time you choose the high-protein meal, every session you show up for, every night you go to bed on time — that's a vote for your new identity. Stack enough votes and the identity shifts.
+
+**4. Remove decisions.** The fewer fitness decisions you have to make each day, the better. Same gym time, same meals, same sleep schedule. Automate the basics so your willpower is free for actual challenges.
+
+**5. Get around people who embody what you want.** Your environment shapes your identity more than any amount of motivation. Follow people who have the physique you want. Train with people who take it seriously.
+
+### The 1% Approach
+
+You don't need to become a different person overnight. You need to become 1% more disciplined today than yesterday. That compounds.
+
+In 30 days, that's 30% more consistent. In 90 days, you've built a foundation that feels automatic. In a year, you won't recognise yourself.
+
+The block isn't physical. It's psychological. Fix the story you tell yourself and the body follows.
+    `,
+  },
+  {
+    slug: "why-you-still-look-the-same-after-years",
+    title: "Why You Still Look the Same After Years in the Gym",
+    excerpt:
+      "You've been training for years but your body hasn't changed. Here are the 7 reasons why — and exactly how to fix each one.",
+    category: "Training",
+    date: "2026-04-09",
+    readTime: "8 min read",
+    videoId: "joXD_BaZKqc",
+    content: `
+## The Harsh Truth
+
+Some guys have been going to the gym for 2, 3, even 5 years and look almost exactly the same as when they started. That's not bad genetics. That's bad strategy.
+
+Here are the 7 most common reasons — and the fix for each.
+
+### 1. No Progressive Overload
+
+This is the number one reason. If you're lifting the same weight for the same reps month after month, your body has zero reason to change. Muscle grows in response to increasing demands.
+
+**Fix:** Track every session. Every exercise, every weight, every rep. Next session, add a rep or add weight. If you can't track it, you can't progress it.
+
+### 2. Not Eating Enough Protein
+
+You can train perfectly and still not build muscle if your protein is too low. Most guys who "eat healthy" are getting 60-80g of protein when they need 140-180g.
+
+**Fix:** Calculate 1.8-2.2g per kg of bodyweight. Hit that number every single day. Track it for 2 weeks until you know what it looks like on a plate.
+
+### 3. Program Hopping
+
+Starting a new program every 3-4 weeks because you saw a better one on YouTube. Every program takes 8-12 weeks to show results. If you switch before that, you never get the adaptation.
+
+**Fix:** Pick one well-designed program. Run it for 12 weeks minimum. Track your progress. THEN evaluate whether to change.
+
+### 4. Junk Volume
+
+Doing 20 sets for biceps but never increasing the weight or intensity. More sets doesn't mean more growth. Hard sets close to failure do.
+
+**Fix:** Quality over quantity. Take working sets to within 1-2 reps of failure. You need fewer sets than you think when the intensity is right. 10-15 hard sets per muscle group per week is plenty.
+
+### 5. Poor Mind-Muscle Connection
+
+Going through the motions without actually engaging the target muscle. Swinging weights, using momentum, ego lifting — all of it reduces the stimulus on the muscle you're trying to grow.
+
+**Fix:** Slow down. Control the eccentric (lowering) phase. Squeeze at the top. Use a weight you can actually control through the full range of motion. Leave your ego at the door.
+
+### 6. Not Being in the Right Caloric State
+
+To build muscle, you need adequate calories. To lose fat, you need a deficit. Eating randomly — sometimes too much, sometimes too little — keeps you in no-man's land where nothing happens.
+
+**Fix:** Decide your goal. If you need to lose fat, eat in a slight deficit. If you need to build muscle, eat in a slight surplus. Commit to one direction for at least 12 weeks.
+
+### 7. Terrible Sleep and Recovery
+
+Training tears muscle down. Sleep builds it back up. If you're sleeping 5-6 hours, going out every weekend, and stressed to your eyeballs, your body can't recover enough to grow.
+
+**Fix:** 7-8 hours of sleep. Consistent bed and wake times. Limit alcohol. Manage stress. Recovery isn't lazy — it's where the results actually happen.
+
+### The Common Thread
+
+Every one of these mistakes comes down to the same thing: not being intentional. Going to the gym isn't enough. You need to go with a plan, track your progress, fuel your body properly, and recover. That's the difference between exercising and training.
+
+If you've been going for years and nothing has changed, something in this list is the reason. Fix it and watch what happens in the next 12 weeks.
+    `,
+  },
 ];
 
 export function getAllPosts(): BlogPost[] {
