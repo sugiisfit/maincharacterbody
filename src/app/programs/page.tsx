@@ -213,7 +213,7 @@ export default function ProgramsPage() {
             below.
           </p>
           <a
-            href="https://calendly.com"
+            href="https://calendly.com/sugiisfit/qualificationcall"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-8 bg-gold hover:bg-gold-hover text-bg px-10 py-4 text-sm font-bold uppercase tracking-wide transition-colors"
@@ -221,7 +221,7 @@ export default function ProgramsPage() {
             Apply for Coaching
           </a>
           <p className="mt-4 text-xs text-text-secondary">
-            Free 15-minute discovery call. No pressure, no obligation.
+            Free 30-minute qualification call. No pressure, no obligation.
           </p>
         </div>
       </section>

@@ -2,6 +2,8 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getAllPosts, getPostBySlug } from "@/lib/posts";
 import type { Metadata } from "next";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
+import BlogCard from "@/components/BlogCard";
 
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
@@ -30,6 +32,10 @@ export default async function BlogPostPage({
   const post = getPostBySlug(slug);
 
   if (!post) notFound();
+
+  const relatedPosts = getAllPosts()
+    .filter((p) => p.category === post.category && p.slug !== post.slug)
+    .slice(0, 3);
 
   return (
     <article>
@@ -66,6 +72,16 @@ export default async function BlogPostPage({
             {post.excerpt}
           </p>
         </header>
+
+        {/* YouTube Video */}
+        {post.videoId && (
+          <div className="mb-12">
+            <p className="text-xs uppercase tracking-wider text-text-secondary mb-3">
+              Watch this video
+            </p>
+            <YouTubeEmbed videoId={post.videoId} title={post.title} />
+          </div>
+        )}
 
         {/* Content */}
         <div className="prose prose-invert prose-gold max-w-none">
@@ -145,6 +161,20 @@ export default async function BlogPostPage({
             View Programs
           </Link>
         </div>
+
+        {/* Related Articles */}
+        {relatedPosts.length > 0 && (
+          <section className="mt-16">
+            <h2 className="font-heading text-2xl font-bold mb-8">
+              Keep Reading
+            </h2>
+            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {relatedPosts.map((relatedPost) => (
+                <BlogCard key={relatedPost.slug} post={relatedPost} />
+              ))}
+            </div>
+          </section>
+        )}
       </div>
     </article>
   );
