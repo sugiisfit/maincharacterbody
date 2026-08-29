@@ -146,20 +146,51 @@ export default async function BlogPostPage({
         </div>
 
         {/* CTA */}
-        <div className="mt-16 p-8 bg-bg-card border border-border text-center">
-          <h3 className="font-heading text-2xl font-bold mb-2">
-            Want personalised guidance?
-          </h3>
-          <p className="text-text-secondary mb-6">
-            Get a program built specifically for your body, your schedule, and
-            your goals.
-          </p>
-          <Link
-            href="/programs"
-            className="inline-block bg-gold hover:bg-gold-hover text-bg px-8 py-3 text-sm font-bold uppercase tracking-wide transition-colors"
-          >
-            View Programs
-          </Link>
+        <div className="mt-16 bg-bg-card border border-border overflow-hidden">
+          <div className="p-8 text-center border-b border-border">
+            <h3 className="font-heading text-2xl font-bold mb-2">
+              Ready to Stop Guessing?
+            </h3>
+            <p className="text-text-secondary">
+              Two ways to start your transformation today.
+            </p>
+          </div>
+          <div className="grid md:grid-cols-2">
+            <div className="p-8 text-center">
+              <p className="text-gold text-xs font-bold uppercase tracking-[0.2em] mb-2">
+                Free
+              </p>
+              <h4 className="font-heading text-lg font-bold mb-2">
+                Find Your Body Type
+              </h4>
+              <p className="text-sm text-text-secondary mb-6">
+                Take the 2-minute quiz and get a personalised starting point.
+              </p>
+              <Link
+                href="/quiz"
+                className="inline-block border border-gold text-gold hover:bg-gold hover:text-bg px-6 py-3 text-sm font-bold uppercase tracking-wide transition-colors"
+              >
+                Take The Quiz
+              </Link>
+            </div>
+            <div className="p-8 text-center border-t md:border-t-0 md:border-l border-border">
+              <p className="text-gold text-xs font-bold uppercase tracking-[0.2em] mb-2">
+                Premium
+              </p>
+              <h4 className="font-heading text-lg font-bold mb-2">
+                1-on-1 Coaching
+              </h4>
+              <p className="text-sm text-text-secondary mb-6">
+                Work directly with Sugii. Only 5 spots available.
+              </p>
+              <Link
+                href="/vipcoaching"
+                className="inline-block bg-gold hover:bg-gold-hover text-bg px-6 py-3 text-sm font-bold uppercase tracking-wide transition-colors"
+              >
+                Apply for Coaching
+              </Link>
+            </div>
+          </div>
         </div>
 
         {/* Related Articles */}
