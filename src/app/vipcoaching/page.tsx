@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Script from "next/script";
 import WistiaEmbed from "@/components/WistiaEmbed";
+import VideoTestimonials from "@/components/VideoTestimonials";
 import "./sugii.css";
 
 export const metadata: Metadata = {
@@ -44,6 +45,9 @@ export default function VipCoachingPage() {
           </a>
         </div>
       </section>
+
+      {/* ── VIDEO TESTIMONIALS ── */}
+      <VideoTestimonials />
 
       {/* ── RESULTS / TRANSFORMATIONS ── */}
       <section className="s-results">
