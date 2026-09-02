@@ -33,6 +33,106 @@ export default function VipCoachingPage() {
           of trying.
         </p>
 
+        <div>
+          <a
+            href={CALENDLY}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn"
+          >
+            Apply Now
+          </a>
+        </div>
+      </section>
+
+      {/* ── RESULTS / TRANSFORMATIONS ── */}
+      <section className="s-results">
+        <div className="s-results__header">
+          <p className="section-label">Real People. Real Results.</p>
+          <h2 className="section-title">Real Men. Real Lives. Real Results.</h2>
+          <p className="section-sub">
+            Busy professionals. Real schedules. No crash diets, no 2-hour
+            sessions. Just the system, applied consistently.
+          </p>
+        </div>
+
+        <div style={{ maxWidth: 1100, margin: "0 auto" }}>
+          <div className="s-ba-grid">
+            {[
+              { src: "/images/transformations/ba-1.png", alt: "77.5kg to 76.1kg body recomposition", caption: "26, Software Engineer" },
+              { src: "/images/transformations/ba-2.png", alt: "71kg to 69kg transformation", caption: "24, Physics Graduate" },
+              { src: "/images/transformations/ba-3.png", alt: "50kg to 65kg, 15kg muscle gain", caption: "19, Medical Student" },
+              { src: "/images/transformations/ba-4.png", alt: "55kg to 60kg, 5kg lean muscle gain", caption: "26, Tech Professional" },
+              { src: "/images/transformations/ba-5.png", alt: "85kg to 77kg, 7kg fat loss", caption: "27, Physiologist" },
+              { src: "/images/transformations/ba-6.jpg", alt: "50kg to 60kg, 10kg muscle gain", caption: "23, Hotel Manager" },
+            ].map((img) => (
+              <div key={img.src} className="s-ba-card" style={{ borderRadius: 10, overflow: "hidden", border: "1px solid rgba(255,255,255,.06)", background: "#111" }}>
+                <img
+                  src={img.src}
+                  alt={img.alt}
+                  loading="lazy"
+                  decoding="async"
+                  style={{ width: "100%", display: "block", objectFit: "cover", aspectRatio: "4/5" }}
+                />
+                <div className="s-ba-caption" style={{ padding: "12px 16px", fontSize: 11, fontWeight: 700, letterSpacing: ".12em", textTransform: "uppercase" as const, color: "#555", textAlign: "center" as const, borderTop: "1px solid rgba(255,255,255,.06)" }}>{img.caption}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Named Case Studies */}
+        <div className="s-named-header">
+          <p className="section-label">Named Case Studies</p>
+          <h2 className="section-title" style={{ fontSize: "clamp(24px, 4vw, 40px)" }}>
+            Specific People. Specific Numbers.
+          </h2>
+        </div>
+
+        <div style={{ maxWidth: 1100, margin: "0 auto" }}>
+          <div className="s-named-grid">
+            {[
+              {
+                name: "Subit",
+                type: "Fat Loss",
+                result: "80kg \u2192 75kg",
+                detail:
+                  "\u201CI\u2019ve always been active, but my efforts never translated into the results I wanted. Sugam helped me understand my relationship with food, the power of consistency, and why keeping things simple is the real secret. I\u2019ve lost 5kg, my energy is more stable than ever, and I finally feel confident and happy in my own body.\u201D",
+                badge: "\u20135 KG \u00B7 Fat Loss",
+              },
+              {
+                name: "Michael",
+                type: "Lean Bulk",
+                result: "70kg \u2192 76kg",
+                detail:
+                  "\u201CAs a busy banker, time is everything. In 6 months with Sugam, I gained 6kg of muscle and unlocked the muscle-up I\u2019d been chasing for years. He simplifies everything, keeps you accountable, and delivers real results. I\u2019m stronger, more energetic, and more confident than ever.\u201D",
+                badge: "+6 KG Muscle \u00B7 Bulk",
+              },
+              {
+                name: "Jordan",
+                type: "Fat Loss",
+                result: "80kg \u2192 75kg",
+                detail:
+                  "\u201CI\u2019d tried everything before finding Sugam, but nothing ever stuck. Within a few months I dropped 5kg and finally started seeing the physique I\u2019d always worked toward. No gimmicks, no overwhelm. Just a clear, sustainable approach that fits into real life.\u201D",
+                badge: "\u20135 KG \u00B7 Fat Loss",
+              },
+            ].map((cs) => (
+              <div key={cs.name} className="s-named-card">
+                <span className="s-nc-name">
+                  {cs.name} &middot; {cs.type}
+                </span>
+                <span className="s-nc-result">{cs.result}</span>
+                <p className="s-nc-detail">{cs.detail}</p>
+                <span className="s-nc-meta">
+                  <span className="s-dot">&#9679;</span> {cs.badge}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── VSL ── */}
+      <section className="s-hero" style={{ paddingTop: 0 }}>
         <p className="s-hero__sub" style={{ marginBottom: 6 }}>
           Most guys think they need to train harder.
           <br />
@@ -56,7 +156,6 @@ export default function VipCoachingPage() {
           That&apos;s the whole game. Here&apos;s how it works &darr;
         </p>
 
-        {/* VSL */}
         <div style={{ maxWidth: 820, margin: "0 auto 40px", borderRadius: 10, border: "1px solid rgba(201,168,76,.32)", boxShadow: "0 0 50px rgba(201,168,76,.22), 0 0 100px rgba(201,168,76,.10)", overflow: "hidden" }}>
           <WistiaEmbed videoId="58aaq2p491" />
         </div>
@@ -240,92 +339,6 @@ export default function VipCoachingPage() {
                 <span className="s-stat-lbl">Years Coaching</span>
               </div>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* ── RESULTS / TRANSFORMATIONS ── */}
-      <section className="s-results">
-        <div className="s-results__header">
-          <p className="section-label">Real People. Real Results.</p>
-          <h2 className="section-title">Real Men. Real Lives. Real Results.</h2>
-          <p className="section-sub">
-            Busy professionals. Real schedules. No crash diets, no 2-hour
-            sessions. Just the system, applied consistently.
-          </p>
-        </div>
-
-        <div style={{ maxWidth: 1100, margin: "0 auto" }}>
-          <div className="s-ba-grid">
-            {[
-              { src: "/images/transformations/ba-1.png", alt: "77.5kg to 76.1kg body recomposition", caption: "26, Software Engineer" },
-              { src: "/images/transformations/ba-2.png", alt: "71kg to 69kg transformation", caption: "24, Physics Graduate" },
-              { src: "/images/transformations/ba-3.png", alt: "50kg to 65kg, 15kg muscle gain", caption: "19, Medical Student" },
-              { src: "/images/transformations/ba-4.png", alt: "55kg to 60kg, 5kg lean muscle gain", caption: "26, Tech Professional" },
-              { src: "/images/transformations/ba-5.png", alt: "85kg to 77kg, 7kg fat loss", caption: "27, Physiologist" },
-              { src: "/images/transformations/ba-6.jpg", alt: "50kg to 60kg, 10kg muscle gain", caption: "23, Hotel Manager" },
-            ].map((img) => (
-              <div key={img.src} className="s-ba-card" style={{ borderRadius: 10, overflow: "hidden", border: "1px solid rgba(255,255,255,.06)", background: "#111" }}>
-                <img
-                  src={img.src}
-                  alt={img.alt}
-                  loading="lazy"
-                  decoding="async"
-                  style={{ width: "100%", display: "block", objectFit: "cover", aspectRatio: "4/5" }}
-                />
-                <div className="s-ba-caption" style={{ padding: "12px 16px", fontSize: 11, fontWeight: 700, letterSpacing: ".12em", textTransform: "uppercase" as const, color: "#555", textAlign: "center" as const, borderTop: "1px solid rgba(255,255,255,.06)" }}>{img.caption}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Named Case Studies */}
-        <div className="s-named-header">
-          <p className="section-label">Named Case Studies</p>
-          <h2 className="section-title" style={{ fontSize: "clamp(24px, 4vw, 40px)" }}>
-            Specific People. Specific Numbers.
-          </h2>
-        </div>
-
-        <div style={{ maxWidth: 1100, margin: "0 auto" }}>
-          <div className="s-named-grid">
-            {[
-              {
-                name: "Subit",
-                type: "Fat Loss",
-                result: "80kg \u2192 75kg",
-                detail:
-                  "\u201CI\u2019ve always been active, but my efforts never translated into the results I wanted. Sugam helped me understand my relationship with food, the power of consistency, and why keeping things simple is the real secret. I\u2019ve lost 5kg, my energy is more stable than ever, and I finally feel confident and happy in my own body.\u201D",
-                badge: "\u20135 KG \u00B7 Fat Loss",
-              },
-              {
-                name: "Michael",
-                type: "Lean Bulk",
-                result: "70kg \u2192 76kg",
-                detail:
-                  "\u201CAs a busy banker, time is everything. In 6 months with Sugam, I gained 6kg of muscle and unlocked the muscle-up I\u2019d been chasing for years. He simplifies everything, keeps you accountable, and delivers real results. I\u2019m stronger, more energetic, and more confident than ever.\u201D",
-                badge: "+6 KG Muscle \u00B7 Bulk",
-              },
-              {
-                name: "Jordan",
-                type: "Fat Loss",
-                result: "80kg \u2192 75kg",
-                detail:
-                  "\u201CI\u2019d tried everything before finding Sugam, but nothing ever stuck. Within a few months I dropped 5kg and finally started seeing the physique I\u2019d always worked toward. No gimmicks, no overwhelm. Just a clear, sustainable approach that fits into real life.\u201D",
-                badge: "\u20135 KG \u00B7 Fat Loss",
-              },
-            ].map((cs) => (
-              <div key={cs.name} className="s-named-card">
-                <span className="s-nc-name">
-                  {cs.name} &middot; {cs.type}
-                </span>
-                <span className="s-nc-result">{cs.result}</span>
-                <p className="s-nc-detail">{cs.detail}</p>
-                <span className="s-nc-meta">
-                  <span className="s-dot">&#9679;</span> {cs.badge}
-                </span>
-              </div>
-            ))}
           </div>
         </div>
       </section>
