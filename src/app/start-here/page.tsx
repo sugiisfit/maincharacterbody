@@ -146,7 +146,7 @@ export default function StartHerePage() {
           <p className="text-text-secondary max-w-lg mx-auto leading-relaxed mb-6">
             I left a finance career in London to go all-in on helping men build
             bodies they&apos;re proud of. I&apos;ve gone from 20%+ to sub-10%
-            body fat multiple times, placed 2nd in UK powerlifting, and coached
+            body fat multiple times, placed 2nd in UK Weighted Calisthenics, competed in IFBB bodybuilding, and coached
             over 100 men through their transformations.
           </p>
           <Link

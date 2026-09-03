@@ -61,7 +61,7 @@ export default function AboutPage() {
                   So I figured it out myself. Studied everything about body
                   recomposition, muscle growth, fat loss. Applied it. Went from
                   20%+ body fat to under 10% — multiple times. Competed in
-                  powerlifting. Placed 2nd in the UK at under-80kg.
+                  weighted calisthenics and IFBB bodybuilding. Placed 2nd in the UK Weighted Calisthenics Championship at under-80kg.
                 </p>
                 <p>
                   Meanwhile, I was building a career in finance in London.

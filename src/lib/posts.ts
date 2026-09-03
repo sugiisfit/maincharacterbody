@@ -1629,7 +1629,7 @@ Take the principles, ditch the hype. Athletic movements combined with heavy comp
     content: `
 ## Coming from a Calisthenics Champion
 
-I won the UK Weighted Calisthenics Championship. So believe me when I say I love this sport. But I also have to be honest about its limitations for building a complete physique.
+I placed 2nd at the UK Weighted Calisthenics Championship. So believe me when I say I love this sport. But I also have to be honest about its limitations for building a complete physique.
 
 ### The Gaps
 

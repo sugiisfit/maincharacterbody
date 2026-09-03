@@ -295,7 +295,7 @@ export default function VipCoachingPage() {
           <div className="s-authority__photo" style={{ aspectRatio: "1/1", borderRadius: 10, overflow: "hidden", border: "1px solid rgba(201,168,76,.22)" }}>
             <Image
               src="/images/transformations/coach-photo.png"
-              alt="Sugii, UK Weighted Calisthenics Champion"
+              alt="Sugii, 2nd Place UK Weighted Calisthenics, IFBB Bodybuilding Competitor"
               width={600}
               height={600}
               style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 15%" }}
@@ -304,7 +304,7 @@ export default function VipCoachingPage() {
 
           <div className="s-authority__content">
             <div className="s-auth-badge">
-              UK Weighted Calisthenics Champion &middot; u80kg &middot; 2022
+              2nd Place UK Weighted Calisthenics &middot; u80kg &middot; IFBB Bodybuilding Competitor
             </div>
 
             <h2>
@@ -335,8 +335,8 @@ export default function VipCoachingPage() {
                 <span className="s-stat-lbl">Clients Transformed</span>
               </div>
               <div className="s-stat-box">
-                <span className="s-stat-num">1st</span>
-                <span className="s-stat-lbl">UK Champion 2022</span>
+                <span className="s-stat-num">2nd</span>
+                <span className="s-stat-lbl">UK Calisthenics 2022</span>
               </div>
               <div className="s-stat-box">
                 <span className="s-stat-num">6+</span>

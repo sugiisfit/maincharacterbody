@@ -126,7 +126,7 @@ export default function Home() {
               { stat: "100+", label: "Men Transformed" },
               { stat: "9,000+", label: "YouTube Subscribers" },
               { stat: "7.5M+", label: "Video Views" },
-              { stat: "2nd UK", label: "U80kg Powerlifting" },
+              { stat: "2nd UK", label: "U80kg Weighted Calisthenics" },
             ].map((item) => (
               <div key={item.label}>
                 <p className="font-heading text-2xl md:text-3xl font-bold text-gold">
