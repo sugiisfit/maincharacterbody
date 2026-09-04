@@ -4,11 +4,11 @@ import { useRef, useCallback, useEffect, useState } from "react";
 
 const TESTIMONIALS = [
   { name: "Prince", label: "Muscle Up", video: "/videos/testimonial-1.mp4" },
-  { name: "Coming Soon", label: "Testimonial", video: "" },
-  { name: "Coming Soon", label: "Testimonial", video: "" },
-  { name: "Coming Soon", label: "Testimonial", video: "" },
-  { name: "Coming Soon", label: "Testimonial", video: "" },
-  { name: "Coming Soon", label: "Testimonial", video: "" },
+  { name: "Coaching", label: "Handstand", video: "/videos/testimonial-2.mp4" },
+  { name: "Dimas", label: "Muscle Up", video: "/videos/testimonial-3.mp4" },
+  { name: "Sulav", label: "Bodybuilder x Calisthenics", video: "/videos/testimonial-4.mp4" },
+  { name: "Anmol", label: "90 to 125kg Bench", video: "/videos/testimonial-5.mp4" },
+  { name: "Min", label: "First Calisthenics Session", video: "/videos/testimonial-6.mp4" },
 ];
 
 export default function VideoTestimonials() {
